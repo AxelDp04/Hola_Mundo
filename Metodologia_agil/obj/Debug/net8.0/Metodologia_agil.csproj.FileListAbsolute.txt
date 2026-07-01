@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\bin\Debug\net8.0\Metodologia_agil.exe
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\bin\Debug\net8.0\Metodologia_agil.deps.json
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\bin\Debug\net8.0\Metodologia_agil.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\bin\Debug\net8.0\Metodologia_agil.dll
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\bin\Debug\net8.0\Metodologia_agil.pdb
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.dll
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\refint\Metodologia_agil.dll
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.pdb
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\ref\Metodologia_agil.dll
