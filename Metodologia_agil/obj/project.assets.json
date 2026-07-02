@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\⠀⠀\\PROYECTOS\\Metodologia_agil\\Metodologia_agil\\Metodologia_agil.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\⠀⠀\\PROYECTOS\\Practica1\\Metodologia_agil\\Metodologia_agil.csproj",
       "projectName": "Metodologia_agil",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\⠀⠀\\PROYECTOS\\Metodologia_agil\\Metodologia_agil\\Metodologia_agil.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\⠀⠀\\PROYECTOS\\Practica1\\Metodologia_agil\\Metodologia_agil.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\⠀⠀\\PROYECTOS\\Metodologia_agil\\Metodologia_agil\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\⠀⠀\\PROYECTOS\\Practica1\\Metodologia_agil\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

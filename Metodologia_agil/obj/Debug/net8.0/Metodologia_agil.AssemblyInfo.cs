@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metodologia_agil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d2563129113fc3a5e01e8029a4548330039f1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metodologia_agil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metodologia_agil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

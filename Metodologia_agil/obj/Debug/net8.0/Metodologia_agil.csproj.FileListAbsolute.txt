@@ -12,3 +12,4 @@ C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agi
 C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.pdb
 C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\ref\Metodologia_agil.dll
+C:\Users\User\OneDrive\Desktop\⠀⠀\PROYECTOS\Metodologia_agil\Metodologia_agil\obj\Debug\net8.0\Metodologia_agil.sourcelink.json
